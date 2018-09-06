@@ -61,13 +61,13 @@
 
 ### Week 10 -- Array -- Assignment 2 due date
 
-### Week 11 -- Vector / Force
+### Week 11 -- Image & Font
 
-### Week 12 -- Particle System
+### Week 12 -- Vector and Force
 
 ### Week 13 -- 1:1 Meeting
 
-### Week 14 -- Image & Font
+### Week 14 -- Particle System
 
 ### Week 15 -- Final Project Presentation
 
