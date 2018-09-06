@@ -1,7 +1,6 @@
 # Creative Computing
 - Fall, 2018
 - Instructor: Jin Sung Yoo - ujinsung@gmail.com
-- Teaching Assistant: Yumi Nakamura - yumiyumi0123@gmail.com
 
 ## DESCRIPTION
 - This course involves an exploration of programming as a tool of visual communication and interactivity between computer and people. This is a project-based course. Students will learn computer programming by their hands-on experiences. During the semester. The p5.js will be used to illustrate fundamental of computation.
@@ -36,6 +35,7 @@
   * Course Intro
     * Overview / Syllabus
   * [Processing Web Editor](https://editor.p5js.org/)
+  
 ### Week 2 -- Tools and basic concept
   * [P5.js](https://p5js.org/) and [Javascript](https://en.wikipedia.org/wiki/JavaScript)
   * [John Maeda Ted 2012](https://www.ted.com/talks/john_maeda_how_art_technology_and_design_inform_creative_leaders)
