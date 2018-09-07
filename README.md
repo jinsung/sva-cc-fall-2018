@@ -9,7 +9,7 @@
 ## RESOURCES
 - [p5.js tutorials](https://p5js.org/learn/)
 - [p5.js reference](http://p5js.org/reference)
-- [Getting Started with p5.js](http://amzn.to/1PmztVt)
+- [The Coding Train - Shiffman's p5.js tutorials](http://amzn.to/1PmztVt)
 - [Learning Processing](http://learningprocessing.com/)
 
 ## Grading
