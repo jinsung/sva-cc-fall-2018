@@ -19,7 +19,7 @@
 * Final - 30%
 
 ## Tools
-* [Github Desktop](https://desktop.github.com/)
+* [p5.js web editor](https://editor.p5js.org)
 * [Atom Editor](https://atom.io/)
 
 ## SYLLABUS
@@ -35,20 +35,23 @@
   * The history of [P5.js](https://p5js.org/) and [Processing](https://processing.org/)
   * Course Intro
     * Overview / Syllabus
-  * [Processing Web Editor](https://editor.p5js.org/)
   
 ### Week 2 -- Tools and basic concept
   * [P5.js](https://p5js.org/) and [Javascript](https://en.wikipedia.org/wiki/JavaScript)
   * [John Maeda Ted 2012](https://www.ted.com/talks/john_maeda_how_art_technology_and_design_inform_creative_leaders)
   * [Step-by-step approach](https://www.youtube.com/watch?v=cDA3_5982h8)
+  * [Editor](https://editor.p5js.org/)
   * Canvas, Pixels and Color
-  * Using Github
   * Setup / Draw Functions
   * Shapes / Background
 
 ### Week 3 -- Bouncing Ball!
+ * Animation
+ * if-else
 
-### Week 4 -- If, Else, and Loop
+### Week 4 -- Loop
+ * While-loop
+ * For-loop
 
 ### Week 5 -- Grid and Nested loops
 
