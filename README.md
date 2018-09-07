@@ -25,9 +25,9 @@
 ## SYLLABUS
 
 ### Week 1 -- Introduction
-  * Who am I?
+  * What is computer programming and why?
+  * About me.
     * [Works](https://vimeo.com/136505838)
-  * What is computer programming and why you want to learn
   * Reference works
     * [John Maeda Design](https://www.google.com/search?q=john+maeda&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjdlPai1b_RAhUs7oMKHXA_A7UQ_AUICSgC&biw=1167&bih=888#tbm=isch&q=john+maeda+graphic+design&imgrc=PhLxs7TrTqQ07M%3A)
     * [Zach Liberman's Instagram](https://www.instagram.com/zach.lieberman/?hl=en)
