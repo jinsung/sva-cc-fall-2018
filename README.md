@@ -46,17 +46,19 @@
   * [P5.js](https://p5js.org/) and [Javascript](https://en.wikipedia.org/wiki/JavaScript)
   * [Editor](https://editor.p5js.org/)
   * Canvas, Pixels and Color
+    * Coordinate system
+    * draw mode & color mode
+    * RGBA vs HSBA
   * [Shapes](https://jinsung.github.io/sva-cc-fall-2018/week02/01_shape/)
   * [Setup / Draw Functions](https://jinsung.github.io/sva-cc-fall-2018/week02/02_setup_draw/)
-  * [Variables](https://jinsung.github.io/sva-cc-fall-2018/week02/03_variables/)
-  * [Built-in Variables](https://jinsung.github.io/sva-cc-fall-2018/week02/06_pmouse/)
   * [Built-in Variables with no Background](https://jinsung.github.io/sva-cc-fall-2018/week02/05_nobackground)
   * [Mouse Position](https://jinsung.github.io/sva-cc-fall-2018/week02/06_mouse_pos)
   * [Line Drawing](https://jinsung.github.io/sva-cc-fall-2018/week02/07_pmouse)
-  * [Random](https://jinsung.github.io/sva-cc-fall-2018/week02/08_random)
-  * [Easing](https://jinsung.github.io/sva-cc-fall-2018/week02/09_easing)
 
 ### Week 3 -- Bouncing Ball!
+ * [Variables](https://jinsung.github.io/sva-cc-fall-2018/week02/03_variables/)
+ * [Random](https://jinsung.github.io/sva-cc-fall-2018/week02/08_random)
+ * [Easing](https://jinsung.github.io/sva-cc-fall-2018/week02/09_easing)
  * Animation
  * if-else
 

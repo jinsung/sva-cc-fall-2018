@@ -13,27 +13,19 @@ function draw() {
   line (mouseX + 20, mouseY, mouseX + 20, mouseY + 100);
   line (mouseX + 30, mouseY, mouseX + 30, mouseY + 100);*/
 
-  // 2
-  //background(100);
-  //var alpha = Math.abs(pmouseX - mouseX);
-  //stroke(0, alpha);
-  //line (mouseX, mouseY, pmouseX , pmouseY + width);
-  //line (mouseX + 10, mouseY, pmouseX + 10, pmouseY + 100);
-  //line (mouseX + 20, mouseY, pmouseX + 20, pmouseY + 100);
-  //line (mouseX + 30, mouseY, pmouseX + 30, pmouseY + 100);
 
   // 3
   //strokeWeight(abs(mouseX - pmouseX));
   //stroke(abs(mouseX - pmouseX)*3);
-  line (mouseX, mouseY, pmouseX, pmouseY);
+  //line (mouseX, mouseY, pmouseX, pmouseY);
 
   // 4
-  /*if (mouseIsPressed) {
+  if (mouseIsPressed) {
     line (mouseX, mouseY, pmouseX, pmouseY);
   }
 
   if (keyIsPressed) {
     background(255);
-  }*/
+  }
 
 }
