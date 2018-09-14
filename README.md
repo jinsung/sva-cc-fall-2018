@@ -9,7 +9,7 @@
 ## RESOURCES
 - [p5.js tutorials](https://p5js.org/learn/)
 - [p5.js reference](http://p5js.org/reference)
-- [The Coding Train - Shiffman's p5.js tutorials](http://amzn.to/1PmztVt)
+- [The Coding Train - Shiffman's p5.js tutorials](https://www.youtube.com/user/shiffman/playlists)
 - [Learning Processing](http://learningprocessing.com/)
 
 ## Grading
@@ -35,7 +35,7 @@
   * The history of [P5.js](https://p5js.org/) and [Processing](https://processing.org/)
   * Course Intro
     * Overview / Syllabus
-  
+
 ### Week 2 -- Tools and basic concept
   * [P5.js](https://p5js.org/) and [Javascript](https://en.wikipedia.org/wiki/JavaScript)
   * [John Maeda Ted 2012](https://www.ted.com/talks/john_maeda_how_art_technology_and_design_inform_creative_leaders)
