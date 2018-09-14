@@ -15,13 +15,13 @@ function setup() {
 function draw() {
   //background(10, 10, 10, 10);
   background(10);
-  fill (150);
+  fill (255);
   ellipse(xPosition, yPosition, 100, 100);
 
   var xDifferent = xTargetPosition - xPosition;
   var yDifferent = yTargetPosition - yPosition;
   var speed = 0.1;
-  speed = 1.5; // spring
+  //speed = 1.3; // spring
   xPosition = xPosition + xDifferent * speed;
   yPosition = yPosition + yDifferent * speed;
 }
