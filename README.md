@@ -51,9 +51,9 @@
     * RGBA vs HSBA
   * [Shapes](https://jinsung.github.io/sva-cc-fall-2018/week02/01_shape/)
   * [Setup / Draw Functions](https://jinsung.github.io/sva-cc-fall-2018/week02/02_setup_draw/)
-  * [Built-in Variables with no Background](https://jinsung.github.io/sva-cc-fall-2018/week02/05_nobackground)
-  * [Mouse Position](https://jinsung.github.io/sva-cc-fall-2018/week02/06_mouse_pos)
-  * [Line Drawing](https://jinsung.github.io/sva-cc-fall-2018/week02/07_pmouse)
+  * [Built-in Variables with no Background](https://jinsung.github.io/sva-cc-fall-2018/week02/05_nobackground/)
+  * [Mouse Position](https://jinsung.github.io/sva-cc-fall-2018/week02/06_mouse_pos/)
+  * [Line Drawing](https://jinsung.github.io/sva-cc-fall-2018/week02/07_pmouse/)
 
 ### Week 3 -- Bouncing Ball!
  * [Variables](https://jinsung.github.io/sva-cc-fall-2018/week03/03_variables/)
@@ -61,9 +61,9 @@
   * Declare, Initialize, and Use
   * Type of the variable (Number, String, Boolean)
   * Scope
- * [Random](https://jinsung.github.io/sva-cc-fall-2018/week03/04_random)
- * [Easing](https://jinsung.github.io/sva-cc-fall-2018/week02/05_easing)
- * [Boolean Operation](https://jinsung.github.io/sva-cc-fall-2018/week02/06_bounce)
+ * [Random](https://jinsung.github.io/sva-cc-fall-2018/week03/04_random/)
+ * [Easing](https://jinsung.github.io/sva-cc-fall-2018/week03/05_easing/)
+ * [Boolean Operation](https://jinsung.github.io/sva-cc-fall-2018/week03/06_bounce/)
 
 ### Week 4 -- Loop
  * If-else
