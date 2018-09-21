@@ -56,13 +56,17 @@
   * [Line Drawing](https://jinsung.github.io/sva-cc-fall-2018/week02/07_pmouse)
 
 ### Week 3 -- Bouncing Ball!
- * [Variables](https://jinsung.github.io/sva-cc-fall-2018/week02/03_variables/)
- * [Random](https://jinsung.github.io/sva-cc-fall-2018/week02/08_random)
- * [Easing](https://jinsung.github.io/sva-cc-fall-2018/week02/09_easing)
- * Animation
- * if-else
+ * [Variables](https://jinsung.github.io/sva-cc-fall-2018/week03/03_variables/)
+  * Built-in or User-defined
+  * Declare, Initialize, and Use
+  * Type of the variable (Number, String, Boolean)
+  * Scope
+ * [Random](https://jinsung.github.io/sva-cc-fall-2018/week03/04_random)
+ * [Easing](https://jinsung.github.io/sva-cc-fall-2018/week02/05_easing)
+ * [Boolean Operation](https://jinsung.github.io/sva-cc-fall-2018/week02/06_bounce)
 
 ### Week 4 -- Loop
+ * If-else
  * While-loop
  * For-loop
 
