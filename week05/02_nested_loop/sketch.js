@@ -20,6 +20,4 @@ function draw() {
       ellipse(circleX, circleY, circleSize, circleSize);
     }
   }
-
-
 }
