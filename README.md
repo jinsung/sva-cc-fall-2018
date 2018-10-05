@@ -69,12 +69,13 @@
  * [If-else](https://jinsung.github.io/sva-cc-fall-2018/week04/01_conditions/)
  * [While-loop](https://jinsung.github.io/sva-cc-fall-2018/week04/02_while_loop/)
  * [For-loop](https://jinsung.github.io/sva-cc-fall-2018/week04/03_for_loop/)
- * [Nested-loop](https://jinsung.github.io/sva-cc-fall-2018/week04/04_nested_loop/)
- * [Noise](https://jinsung.github.io/sva-cc-fall-2018/week04/05_noise/)
- * [Basic Trigonometry](https://jinsung.github.io/sva-cc-fall-2018/week04/06_for_loop2/)
- * [Angle](https://jinsung.github.io/sva-cc-fall-2018/week04/07_2d_translation/)
 
-### Week 5 -- Functions
+### Week 5 -- Nested Loop / Functions
+ * [For Loop 2](https://jinsung.github.io/sva-cc-fall-2018/week05/01_for_loop2/)
+ * [Nested-loop](https://jinsung.github.io/sva-cc-fall-2018/week05/02_nested_loop/)
+ * [Noise](https://jinsung.github.io/sva-cc-fall-2018/week05/03_noise/)
+ * [Angle](https://jinsung.github.io/sva-cc-fall-2018/week05/04_2d_translation/)
+ * [Function 1](https://jinsung.github.io/sva-cc-fall-2018/week05/06_bouncing_ball_w_function/)
 
 ### Week 6 -- 2D Transformation - Assignment 1 due date
 
