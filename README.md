@@ -77,15 +77,20 @@
  * [Angle](https://jinsung.github.io/sva-cc-fall-2018/week05/04_2d_translation/)
  * [Function 1](https://jinsung.github.io/sva-cc-fall-2018/week05/06_bouncing_ball_w_function/)
 
-### Week 6 -- 2D Transformation - Assignment 1 due date
+### Week 6 -- Functions / Clock - Assignment 1 due date
+ * [Clock](http://cmuems.com/2016/60212/lectures/lecture-09-09b-clocks/maedas-clocks/)
+ * [Function / Modular](https://jinsung.github.io/sva-cc-fall-2018/week06/02_bouncing_ball_w_function/)
+ * [Function / Re-usable](https://jinsung.github.io/sva-cc-fall-2018/week06/04_target_w_function)
+ * [Clock Template](https://jinsung.github.io/sva-cc-fall-2018/week06/07_clock_template/)
+ * [Object](https://jinsung.github.io/sva-cc-fall-2018/week06/06_object_101)
 
-### Week 7 -- Clock
+### Week 7 -- Object 1
 
-### Week 8 -- Object 1
+### Week 8 -- Object 2
 
-### Week 9 -- Object 2
+### Week 9 -- Array
 
-### Week 10 -- Array -- Assignment 2 due date
+### Week 10 -- 2D Transform -- Assignment 2 due date
 
 ### Week 11 -- Image & Font
 
