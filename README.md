@@ -82,17 +82,21 @@
  * [Function / Modular](https://jinsung.github.io/sva-cc-fall-2018/week06/02_bouncing_ball_w_function/)
  * [Function / Re-usable](https://jinsung.github.io/sva-cc-fall-2018/week06/04_target_w_function)
  * [Clock Template](https://jinsung.github.io/sva-cc-fall-2018/week06/07_clock_template/)
- * [Object](https://jinsung.github.io/sva-cc-fall-2018/week06/06_object_101)
 
-### Week 7 -- Object 1
+### Week 7 -- Object
+ * [More Functions](https://jinsung.github.io/sva-cc-fall-2018/week07/01_distance/)
+ * [Even More Functions](https://jinsung.github.io/sva-cc-fall-2018/week07/02_arrow/)
+ * [Object](https://jinsung.github.io/sva-cc-fall-2018/week07/03_object_101/)
+ * [Array](https://jinsung.github.io/sva-cc-fall-2018/week07/04_array/)
+ * [Array and Loop](https://jinsung.github.io/sva-cc-fall-2018/week07/05_array_and_for_loop/)
 
-### Week 8 -- Object 2
+### Week 8 -- Array
 
-### Week 9 -- Array
+### Week 9 -- 2D Transform
 
-### Week 10 -- 2D Transform -- Assignment 2 due date
+### Week 10 -- Image -- Assignment 2 due date
 
-### Week 11 -- Image & Font
+### Week 11 -- Font
 
 ### Week 12 -- Vector and Force
 
