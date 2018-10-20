@@ -89,6 +89,7 @@
  * [Object](https://jinsung.github.io/sva-cc-fall-2018/week07/03_object_101/)
  * [Array](https://jinsung.github.io/sva-cc-fall-2018/week07/04_array/)
  * [Array and Loop](https://jinsung.github.io/sva-cc-fall-2018/week07/05_array_and_for_loop/)
+ * [Week7 Object](https://editor.p5js.org/jinsng/sketches/By4SJ-di7)
 
 ### Week 8 -- Array
 
