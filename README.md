@@ -91,6 +91,9 @@
  * [Array and Loop](https://jinsung.github.io/sva-cc-fall-2018/week07/05_array_and_for_loop/)
 
 ### Week 8 -- Array
+ * [Array & Loop](https://jinsung.github.io/sva-cc-fall-2018/week08/02_array_and_for_loop/)
+ * [Bouncing balls](https://jinsung.github.io/sva-cc-fall-2018/week08/04_array_and_for_loop_bouncingBalls/)
+ * [Characters](https://jinsung.github.io/sva-cc-fall-2018/week08/06_characters/)
 
 ### Week 9 -- 2D Transform
 
