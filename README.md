@@ -96,7 +96,12 @@
  * [Bouncing balls](https://jinsung.github.io/sva-cc-fall-2018/week08/04_array_and_for_loop_bouncingBalls/)
  * [Characters](https://jinsung.github.io/sva-cc-fall-2018/week08/06_characters/)
 
-### Week 9 -- 2D Transform
+### Week 9 -- Array 2 / 2D Transform
+ * [Characters 1](https://jinsung.github.io/sva-cc-fall-2018/week09/01_characters)
+ * [Characters 2](https://jinsung.github.io/sva-cc-fall-2018/week09/02_characters)
+ * [Characters 3](https://jinsung.github.io/sva-cc-fall-2018/week09/03_characters)
+ * [2D Transform](https://jinsung.github.io/sva-cc-fall-2018/week09/05_transform)
+ * [Characters 4](https://jinsung.github.io/sva-cc-fall-2018/week09/04_characters)   
 
 ### Week 10 -- Image -- Assignment 2 due date
 
