@@ -104,16 +104,19 @@
  * [Characters 4](https://jinsung.github.io/sva-cc-fall-2018/week09/04_characters)   
 
 ### Week 10 -- Image -- Assignment 2 due date
+ * [Nested Loop](https://jinsung.github.io/sva-cc-fall-2018/week10/01_nested_loop)
+ * [Image](https://jinsung.github.io/sva-cc-fall-2018/week10/02_image)
+ * [Pixel Array](https://jinsung.github.io/sva-cc-fall-2018/week10/03_pixels)
+ * [Pixel Particles](https://jinsung.github.io/sva-cc-fall-2018/week10/04_pixel_particles)
+ * [Pixel Particle Animation](https://jinsung.github.io/sva-cc-fall-2018/week10/05_pixels_animation)   
 
-### Week 11 -- Font
+### Week 11 -- Vector and Force
 
-### Week 12 -- Vector and Force
+### Week 12 -- Particle System
 
 ### Week 13 -- 1:1 Meeting
 
-### Week 14 -- Particle System
-
-### Week 15 -- Final Project Presentation
+### Week 14 -- Final Project Presentation
 
 ## Students with Disabilities
 
