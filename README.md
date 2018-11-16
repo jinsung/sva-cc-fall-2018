@@ -111,6 +111,10 @@
  * [Pixel Particle Animation](https://jinsung.github.io/sva-cc-fall-2018/week10/05_pixels_animation)   
 
 ### Week 11 -- Vector and Force
+ * [Vector](https://jinsung.github.io/sva-cc-fall-2018/week11/03_vector_03)
+ * [Acceleration](https://jinsung.github.io/sva-cc-fall-2018/week11/04_acceleration)
+ * [Force](https://jinsung.github.io/sva-cc-fall-2018/week11/05_force)  
+ * [Friction](https://jinsung.github.io/sva-cc-fall-2018/week11/06_friction)
 
 ### Week 12 -- Particle System
 
