@@ -117,7 +117,13 @@
  * [Friction](https://jinsung.github.io/sva-cc-fall-2018/week11/06_friction)
 
 ### Week 12 -- Particle System
-
+ * [Particle](https://jinsung.github.io/sva-cc-fall-2018/week12/01_particles)
+ * [Angry Particle](https://jinsung.github.io/sva-cc-fall-2018/week12/02_angry_particles)
+ * [Particle System](https://jinsung.github.io/sva-cc-fall-2018/week12/03_particle_system)
+ * [Particle System Noise](https://jinsung.github.io/sva-cc-fall-2018/week12/03_particle_noise)
+ * [Particle System Interact](https://jinsung.github.io/sva-cc-fall-2018/week12/05_particle_system_pushing)
+ * [Particle System Pixel Data](https://jinsung.github.io/sva-cc-fall-2018/week12/06_particle_system_image)
+ 
 ### Week 13 -- 1:1 Meeting
 
 ### Week 14 -- Final Project Presentation
